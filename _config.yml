@@ -1,0 +1,11 @@
+title: Jemmy Law # your name (or website title) here
+logo: "/images/heres.jpg?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  University of Glasgow student
+  <br><br>
+  21 years old Hong Kong girl
+  <br><br>
+  <a href="https://www.linkedin.com/in/jemmy-law-6b8066218/"> View My LinkedIn Profile</a>
+  
+theme: jekyll-theme-minimal
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
